@@ -8,7 +8,7 @@
      - ACM demo
 
 2. Nested Stack (Cross references between parent stack and nested stack)
-3. Customizing constructs           <<<<<<
+3. Customizing constructs                                                  <<<<<<
    - Abstraction
    - Using escape hatches
    - Un-escape hatches
