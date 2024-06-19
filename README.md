@@ -185,6 +185,7 @@ The subject is too broad to cover completely here, but the following links shoul
 [Custom Resources](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-custom-resources.html) and [Custom-Resource Example](https://github.com/aws-samples/aws-cdk-examples/tree/main/typescript/custom-resource).
 
 - AwsCustomResource;
+
 Use this to bridge any gap that might exist in the CloudFormation Coverage. You can specify exactly which calls are invoked for the 'CREATE', 'UPDATE' and 'DELETE' lifecycle events.
 
 ```typescript
